@@ -1,1 +1,1 @@
-# Comment-finder-c08eb496
+# als je een tekst wil testen stop die dan in de code.php ,windows terminal heeft soms moeite met newlines
